@@ -1,0 +1,16 @@
+hello world
+hello world
+hello world
+hello world
+hello world
+Howdy hee hee ha ha hi helloAshes-MacBook-Air:bash_scripts ashe$ ./my_first_script
+clear
+
+
+clear
+
+
+
+clear
+hello world
+hello world

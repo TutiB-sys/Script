@@ -1,0 +1,72 @@
+#! /bin/bash
+
+
+
+name="Ruti"
+
+
+if [ $name == "Ruti" ]
+then
+    echo "Hi, $name"
+else 
+    echo "whomst art thou"
+fi
+
+#=====================================
+
+first_name="Babi"
+last_name="Ashenafi"
+
+if [ $first_name == "Babi" ] && [ $last_name == "Ashenafi" ]
+then
+    echo "Hi, $first_name $last_name"
+
+else
+    echo "whomst art thou"
+fi
+
+#=======================================
+
+#first_name="Babi"
+number=3
+
+if [ $first_name == "Babi" ] && [ $number == 3 ]
+then
+    echo "Hi, $first_name"
+
+else
+    echo "whomst art thou"
+fi
+
+#=======================================
+first_name="Tuti"
+number=3
+
+if [ $first_name == "Tuti" ] && [ $number -gt 2 ]
+then
+    echo "Hi, $first_name"
+
+else
+    echo "whomst art thou"
+fi
+
+#looping
+start=1
+
+while [ $start -lt 11 ]
+do
+    echo "$start"
+    start=$(( start + 1 ))
+done
+
+
+
+
+
+
+
+
+
+
+
+

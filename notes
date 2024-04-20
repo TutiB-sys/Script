@@ -1,0 +1,19 @@
+echo "hello world" >> test_file.txt  #-- type words to the file
+cat >> test_file.txt  #--adding more stuffs
+cat test_file.txt-- excuting
+
+
+# connecting the python file to the bash file
+
+python3 hello.py 
+python3 do_some_stuff.
+
+
+
+# ` -lt : less than`
+# ` -gt: greater than`
+# `-ge: greater or equal to`
+# '-le: less or equal to'
+# `-eq: eg=qual to`
+# `-ne : not equal to`
+
